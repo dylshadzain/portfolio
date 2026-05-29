@@ -47,7 +47,7 @@ export default function App() {
         <p className="mt-8 max-w-md text-stone-400 text-base leading-relaxed font-light">
           A practice focused on thoughtful design, from intimate residences to civic landmarks.
         </p>
-        
+        <a
           href="#works"
           className="mt-12 inline-flex items-center gap-3 text-sm text-stone-400 hover:text-white transition-colors group"
         >
@@ -122,11 +122,11 @@ export default function App() {
         <div className="flex flex-col lg:flex-row lg:items-end lg:justify-between gap-8">
           <div>
             <h2 className="text-xs tracking-[0.25em] uppercase text-stone-500 mb-6">Get in Touch</h2>
-            
+            <a
               href="mailto:hello@studio.com"
               className="text-4xl font-light text-white hover:text-stone-300 transition-colors"
             >
-              hello@studio.com
+              dylshad.zain@gmail.com
             </a>
           </div>
           <p className="text-stone-600 text-sm">
